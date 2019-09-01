@@ -1,0 +1,12 @@
+{
+  "name": "projet",
+  "version": "0.1.0",
+  "description": "Projet BOT discord",
+  "main": "main.js",
+  "repository": "https://github.com/Pap-ounet/botdiscord.git",
+  "author": "Antoine <antoine.malquin@free.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
